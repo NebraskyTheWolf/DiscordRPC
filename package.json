@@ -1,0 +1,16 @@
+{
+  "name": "vakearpc",
+  "version": "1.0.0",
+  "description": "A discord RPC for vakea.",
+  "main": "index.ts",
+  "repository": "git@github.com/NebraskyTheWolf/discordrpc.git",
+  "author": "NebraskyTheWolf",
+  "license": "MIT",
+  "dependencies": {
+    "@types/discord-rpc": "^4.0.3",
+    "discord-rpc": "^4.0.1",
+    "fs": "^0.0.1-security",
+    "fs-node": "^1.0.1",
+    "typescript": "^4.9.5"
+  }
+}

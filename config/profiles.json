@@ -1,0 +1,21 @@
+{
+    "profiles": [
+        {
+            "profileName": "vakea",
+            "details": "Vakea Profile Information",
+            "state": "There you'll find all my information about me!",
+            "largeImageKey": "vakealogo",
+            "largeImageText": "Vakea is a stimky fluffy bean.",
+            "buttons": [
+                {
+                    "label": "Github",
+                    "url": "https://github.com/NebraskyTheWolf"
+                },
+                {
+                    "label": "Twitter",
+                    "url": "https://twitter.com/MitsuiHoshiko"
+                }
+            ]
+        }
+    ]
+}
